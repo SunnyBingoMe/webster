@@ -108,7 +108,7 @@
     <div class="red" style="width:<?= ($G2+$A)*$extendRatio ?>px"><?= $G2+$A ?>s</div>
     <br/> <br/>
     第二相位:
-    <div class="red" style="width:<?= ($G1+$A)*$extendRatio ?>px"><?= $G2+$A ?>s</div>
+    <div class="red" style="width:<?= ($G2+$A)*$extendRatio ?>px"><?= $G2+$A ?>s</div>
     <div class="green" style="width:<?= $G2*$extendRatio ?>px"><?= $G2 ?>s</div>
     <div class="yellow" style="width:<?= $A*$extendRatio ?>px"><?= $A ?>s</div>
 </body>
