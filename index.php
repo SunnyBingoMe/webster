@@ -25,7 +25,7 @@
 </head>
 
 <body>
-    <a target='_blank' href='https://github.com/SunnyBingoMe/webster'>点击这里</a>查看源代码.</br></br>
+    <a target='_blank' href='https://github.com/SunnyBingoMe/webster'>点击这里</a>可以查看源代码.</br></br>
     参数配置(两相无全红):<br><br>
     <form method="POST">
 
